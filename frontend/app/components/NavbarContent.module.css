@@ -1,0 +1,14 @@
+.anchor {
+    color: rgb(14, 120, 14);
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.anchor:hover {
+    background-color: rgb(243, 243, 243);
+}
+
+.anchor:active {
+    background-color: #d4ffd4;
+}
