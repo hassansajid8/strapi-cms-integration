@@ -6,7 +6,6 @@
 
 - Must have nodejs installed
 - You can use any package manager
-- Backend is under development and not functional as of yet
 
 ## Run Strapi CMS
 
